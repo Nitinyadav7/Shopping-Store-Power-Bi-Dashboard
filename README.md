@@ -1,2 +1,3 @@
-# Shopping-Store-Power-Bi-Dashboard
-Power Bi Dashboard
+Description :
+
+Created interactive dashboard to track and analyze online sales data.
